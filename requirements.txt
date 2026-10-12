@@ -1,0 +1,7 @@
+streamlit
+requests
+pillow
+pydantic
+plotly
+matplotlib
+fpdf2
